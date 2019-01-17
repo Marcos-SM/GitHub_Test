@@ -1,7 +1,10 @@
 # Exercise 13
 
-*Author: Marcos Suárez Menéndez*
+*Author: Marcos Suárez Menéndez* :smiling_imp:
 
+Github_test contains the programm with shell scripts
+
+Github_test1 contains the programm with some python scripts
 
 ## Annotation_1
 Write personal data to the file :thumbsup:
